@@ -34,6 +34,12 @@
 
 #######################################################################################################################################################
 
+*** Always add the empty "__init__.py" file under the directory which contains they .py file with classes you want to refer to in another .py file. Simply from <python_file_name> import <class_name> will create the reference!
+
+
+#######################################################################################################################################################
+
 Join our Telegram Chat for more resources and materials!
 
 "https://t.me/joinchat/Im0hDFEzJX4byuTGlP4HQQ"
+
