@@ -29,7 +29,11 @@
 
 <Solution to PyCharm cannot run kivy on some Windows>
 
-*We are still trying to find a solution. Once found, will update here and inform everyone in the Telegram group*
+Follow the instruction here to see if it works!
+https://github.com/kivy/kivy/wiki/Setting-Up-Kivy-with-various-popular-IDE's
+
+And a post on Reddit here for reference:
+https://www.reddit.com/r/kivy/comments/8abti3/difficulty_with_initial_set_up/
 
 
 #######################################################################################################################################################
